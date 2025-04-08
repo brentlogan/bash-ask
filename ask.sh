@@ -1,3 +1,4 @@
+# bash-ask from https://web.archive.org/web/20210922125055/https://gist.github.com/davejamesmiller/1965569
 ask() {
     local prompt default reply
 
